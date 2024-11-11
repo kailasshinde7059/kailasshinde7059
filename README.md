@@ -12,3 +12,6 @@ CI/CD pipelines (Jenkins, GitLab CI, etc.), infrastructure as code (Terraform, C
 
 Email: kailasshinde7059@gmail.com
 GitHub: https://github.com/kailasshinde7059
+
+
+![github-contribution-grid-snake-dark](https://github.com/user-attachments/assets/a26ea749-6113-42b9-8cc1-dd50cbcdedd8)
